@@ -239,7 +239,7 @@
 
 .navsli a:link{
 	text-decoration:none;
-	color:white;
+	color:#502F4C;
 }
 
 
@@ -279,7 +279,12 @@ ul {
 	margin-bottom:0px;
 	margin-left:0;
 }
-
+.title2{
+	margin-top:5px;
+	margin-bottom:0px;
+	margin-left:0;
+	font-size:1.5em;
+}
 /* Footer */
 
 .footer{
