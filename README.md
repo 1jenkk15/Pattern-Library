@@ -1,4 +1,5 @@
 # Pattern-Library
+Medium.com link: 
 
 Intro
 
