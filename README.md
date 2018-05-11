@@ -1,5 +1,6 @@
 # Pattern-Library
-Medium.com link: 
+Medium.com link: https://medium.com/@krisrjenkins/digital-designing-through-a-pattern-library-c54eb3c01b92
+Github Pages: https://1jenkk15.github.io/Pattern-Library/
 
 Intro
 
